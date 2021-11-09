@@ -1,0 +1,15 @@
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stuff\MouseControl\MouseControl\bin\Debug\netcoreapp3.1\MouseControl.exe
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stuff\MouseControl\MouseControl\bin\Debug\netcoreapp3.1\MouseControl.deps.json
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stuff\MouseControl\MouseControl\bin\Debug\netcoreapp3.1\MouseControl.runtimeconfig.json
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stuff\MouseControl\MouseControl\bin\Debug\netcoreapp3.1\MouseControl.runtimeconfig.dev.json
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stuff\MouseControl\MouseControl\bin\Debug\netcoreapp3.1\MouseControl.dll
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stuff\MouseControl\MouseControl\bin\Debug\netcoreapp3.1\MouseControl.pdb
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stuff\MouseControl\MouseControl\obj\Debug\netcoreapp3.1\MouseControl.csproj.AssemblyReference.cache
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stuff\MouseControl\MouseControl\obj\Debug\netcoreapp3.1\MouseControl.Form1.resources
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stuff\MouseControl\MouseControl\obj\Debug\netcoreapp3.1\MouseControl.csproj.GenerateResource.cache
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stuff\MouseControl\MouseControl\obj\Debug\netcoreapp3.1\MouseControl.AssemblyInfoInputs.cache
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stuff\MouseControl\MouseControl\obj\Debug\netcoreapp3.1\MouseControl.AssemblyInfo.cs
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stuff\MouseControl\MouseControl\obj\Debug\netcoreapp3.1\MouseControl.csproj.CoreCompileInputs.cache
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stuff\MouseControl\MouseControl\obj\Debug\netcoreapp3.1\MouseControl.dll
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stuff\MouseControl\MouseControl\obj\Debug\netcoreapp3.1\MouseControl.pdb
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Stuff\MouseControl\MouseControl\obj\Debug\netcoreapp3.1\MouseControl.genruntimeconfig.cache
