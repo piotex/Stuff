@@ -15,16 +15,23 @@ namespace MouseControl
         private void scrool_button_Click(object sender, EventArgs e)
         {
             //textBox1.Text = "X: " + MouseOperations.GetCursorPosition().X + " | Y: " + MouseOperations.GetCursorPosition().Y;
-            Thread.Sleep(2000);
-            for (int i = 0; i < 100; i++)
+            delay();
+
+            int maxScrollNumber = int.Parse(iteration_number_textBox.Text);
+            int scrollStep = int.Parse(scroll_step_textBox.Text);
+            int msSleep = int.Parse(ms_sleep_time_textBox.Text);
+
+            progressBar2.Maximum = maxScrollNumber;
+            for (int i = 0; i < maxScrollNumber; i++)
             {
-                Thread.Sleep(100);
-                MouseOperations.MouseScroll(-i*10);
-                progressBar1.Value = i;
+
+                MouseOperations.MouseScroll(scrollStep);
+                progressBar2.Value = i;
                 
                 Application.DoEvents();
+                Thread.Sleep(msSleep);
             }
-            progressBar1.Value = 0;
+            progressBar2.Value = 0;
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -36,5 +43,21 @@ namespace MouseControl
         {
 
         }
+        private void delay()
+        {
+            int delay_ms = int.Parse(delay_ms_textBox.Text);
+            int tmp = 100;
+
+            delay_progressBar.Maximum = delay_ms / tmp;
+            for (int i = 0; i < delay_ms/tmp; i++)
+            {
+                delay_progressBar.Value = i;
+
+                Application.DoEvents();
+                Thread.Sleep(tmp);
+            }
+            delay_progressBar.Value = 0;
+        }
+
     }
 }
