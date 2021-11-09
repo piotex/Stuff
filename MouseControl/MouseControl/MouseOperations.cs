@@ -7,6 +7,7 @@ namespace MouseControl
 {
     public static class MouseOperations
     {
+        //https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-mouse_event
         [Flags]
         public enum MouseEventFlags
         {
@@ -17,7 +18,10 @@ namespace MouseControl
             Move = 0x00000001,
             Absolute = 0x00008000,
             RightDown = 0x00000008,
-            RightUp = 0x00000010
+            RightUp = 0x00000010,
+
+
+            MOUSEEVENTF_WHEEL = 0x0800
         }
 
         [DllImport("user32.dll", EntryPoint = "SetCursorPos")]
@@ -49,17 +53,18 @@ namespace MouseControl
             return currentMousePoint;
         }
 
+        public static void MouseScroll(int val)
+        {
+            int tmp = (int)MouseEventFlags.MOUSEEVENTF_WHEEL;
+            MousePoint position = GetCursorPosition();
+
+            mouse_event((int)tmp, position.X, position.Y, val, 0);
+        }
         public static void MouseEvent(MouseEventFlags value)
         {
             MousePoint position = GetCursorPosition();
 
-            mouse_event
-                ((int)value,
-                 position.X,
-                 position.Y,
-                 0,
-                 0)
-                ;
+            mouse_event((int)value, position.X, position.Y, 0, 0);
         }
 
         [StructLayout(LayoutKind.Sequential)]
@@ -76,3 +81,4 @@ namespace MouseControl
         }
     }
 }
+
