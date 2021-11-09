@@ -21,14 +21,10 @@ namespace MouseControl
                 Thread.Sleep(100);
                 MouseOperations.MouseScroll(-i*10);
                 progressBar1.Value = i;
-                textBox1.Text = "Scroling ";
-                for (int j = 0; j < i%3; j++)
-                {
-                    textBox1.Text += " .";
-                }
+                
                 Application.DoEvents();
             }
-            textBox1.Text = "";
+            progressBar1.Value = 0;
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
