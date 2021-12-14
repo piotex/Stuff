@@ -1,0 +1,1887 @@
+﻿<div class="table table-chapter-list">
+
+<ul id="simpleList" class="list-group" style="margin-bottom: 0px; padding-right: 5px;transition: all 0.5s ease 0s;">
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1471239" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1471239" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1471239/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 164
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>11/06/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+ <input class="chapter-index" chapter-id="1457511" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1457511" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1457511/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 163
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>10/22/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1453260" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1453260" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1453260/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 162: tokyo no. 1 colony, part 2
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>10/17/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1452777" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1452777" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1452777/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 0.162 : notice.162
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>10/17/2021</small></label>
+ </div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1437185" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1437185" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1437185/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 161
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>10/01/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1431276" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1431276" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1431276/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 160
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>09/24/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1425523" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1425523" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1425523/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+ Chapter 159: judgment
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>09/17/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1423832" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1423832" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1423832/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Notice. : this week’s chapter
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>09/14/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1419108" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1419108" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1419108/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 158
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>09/10/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1413075" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1413075" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1413075/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 157
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>09/03/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1406402" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1406402" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1406402/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 156
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>08/27/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1399632" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1399632" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1399632/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 155
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>08/20/2021</small></label>
+</div>
+</li>
+ <li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1384480" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1384480" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1384480/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 154
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>08/06/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1378449" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1378449" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1378449/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 153
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>07/30/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1319981" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1319981" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1319981/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 152
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>06/11/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1314962" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1314962" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1314962/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 151
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>06/05/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1306495" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1306495" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1306495/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 150
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>05/28/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1299664" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1299664" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1299664/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 149
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>05/21/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1289840" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1289840" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1289840/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 148
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>05/15/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1267814" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1267814" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1267814/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 147: even pandas
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/25/2021</small></label>
+</div>
+</li>
+ <li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1263360" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1263360" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1263360/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 146: about the culling game
+</label>
+<a class="anchor" id="anchor_151" style="display: block; position: relative; top: -500px; visibility: hidden;"></a></a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/18/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1258024" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1258024" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1258024/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 145: the back
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/11/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1249905" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1249905" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1249905/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 144: that place
+</label>
+</a>
+<div style="display:flex">
+ <label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>03/28/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1248054" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1248054" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1248054/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 143: one more time
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>03/21/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1243416" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1243416" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1243416/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 142: a big brother's back
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>03/14/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1237795" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1237795" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1237795/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 141: the front of the back
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>03/07/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1232510" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1232510" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1232510/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 140: execution
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>02/28/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1227053" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1227053" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1227053/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 139: hunter
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>02/21/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+ <input class="chapter-index" chapter-id="1221703" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1221703" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1221703/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 138: the zen'in clan
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>02/14/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1210313" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1210313" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1210313/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 137: hard and white
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>01/31/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1204597" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1204597" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1204597/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 136: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>01/24/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1199068" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1199068" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1199068/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 135: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>01/17/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1188079" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1188079" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1188079/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 134: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>01/04/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1175127" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1175127" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1175127/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 133: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>12/20/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1281185" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1281185" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1281185/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 132.5
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>05/08/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1162208" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1162208" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1162208/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 132: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>12/06/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1143311" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1143311" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1143311/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 131: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>11/29/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1128821" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1128821" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1128821/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 130: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>11/20/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1284502" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1284502" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1284502/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 129.5
+</label>
+</a>
+<div style="display:flex">
+ <label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>05/11/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1110302" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1110302" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1110302/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 129: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>11/08/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1107027" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1107027" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1107027/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 128: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>11/01/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1102543" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1102543" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1102543/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 127: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>10/25/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1095605" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1095605" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1095605/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 126: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>10/16/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1092570" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1092570" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1092570/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 125: a story about that girl
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>10/11/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1087524" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1087524" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1087524/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 124: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>10/04/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1281184" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1281184" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1281184/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 123
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>05/08/2021</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1071262" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1071262" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1071262/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 122: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+ <label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>09/18/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1067719" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1067719" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1067719/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 121: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>09/13/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1061946" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1061946" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1061946/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 120: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>09/06/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1056654" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1056654" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1056654/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 119: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>08/30/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1049778" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1049778" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1049778/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 118: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>08/23/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1039341" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1039341" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1039341/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 117: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>08/10/2020</small></label>
+</div>
+</li>
+ <li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1034158" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1034158" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1034158/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 116: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>08/02/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1016834" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1016834" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1016834/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 115: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>07/19/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1012415" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1012415" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1012415/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 114: the shibuya incident, part...
+</label>
+</a>
+ <div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>07/12/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1010488" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1010488" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1010488/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 113: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>07/10/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1010487" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1010487" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1010487/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 112: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>07/10/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1010486" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1010486" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1010486/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 111: the shibuya incident, part...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>07/10/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1098267" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1098267" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1098267/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 110
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>10/19/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="1098266" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="1098266" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/1098266/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 109
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>10/19/2020</small></label>
+</div>
+</li>
+ <li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="956069" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="956069" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/956069/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 108
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>06/02/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="956068" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="956068" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/956068/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 107
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>06/02/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="956067" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="956067" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/956067/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 106
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>06/02/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="955255" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="955255" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/955255/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 105
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>05/31/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="822121" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="822121" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/822121/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 104
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/27/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="816858" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="816858" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/816858/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+ <label class="chapter-title">
+Chapter 103
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/12/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="814408" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="814408" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/814408/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 102
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/05/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="810645" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="810645" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/810645/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 101
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>03/29/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="804936" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="804936" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/804936/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 100
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>03/15/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="804935" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="804935" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/804935/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 99
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>03/15/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="802331" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="802331" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/802331/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 98
+</label>
+<a class="anchor" id="anchor_101" style="display: block; position: relative; top: -500px; visibility: hidden;"></a></a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>03/08/2020</small></label>
+</div>
+ </li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="799412" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="799412" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/799412/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 97
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>03/01/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="781078" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="781078" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/781078/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 96
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>02/21/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="778301" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="778301" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/778301/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 95
+</label>
+ </a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>02/16/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="773522" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="773522" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/773522/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 94
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>02/09/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="769829" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="769829" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/769829/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 93
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>02/02/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="767606" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+ <a class="chapter-url" chapter-id="767606" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/767606/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 92
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>01/26/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="764599" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="764599" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/764599/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 91
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>01/19/2020</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="759435" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="759435" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/759435/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 90
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>01/06/2020</small></label>
+</div>
+</li>
+ <li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="753179" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="753179" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/753179/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 89
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>12/25/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="747715" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="747715" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/747715/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 88: shibuya incident v
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>12/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="740513" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="740513" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/740513/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 87: shibuya incident iv
+</label>
+</a>
+<div style="display:flex">
+ <label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>12/06/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="735900" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="735900" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/735900/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 86: shibuya incident iv
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>11/30/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="733664" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="733664" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/733664/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 85: the shibuya incident, part 3
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>11/25/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="730723" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="730723" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/730723/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 84: the shibuya incident, part 2
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>11/18/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="728781" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="728781" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/728781/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 83: the shibuya incident, part 1
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>11/11/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="722363" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="722363" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/722363/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 82: pre-festival iii
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>11/01/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="718976" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="718976" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/718976/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 81: pre-festival ii
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>10/26/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="715731" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="715731" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/715731/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 80: pre-festival
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>10/19/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="714356" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="714356" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/714356/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 79: a taste of things to come
+</label>
+</a>
+<div style="display:flex">
+ <label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>10/13/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="712468" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="712468" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/712468/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 78: premature death iii
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>10/06/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="709412" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="709412" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/709412/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 77: premature death ii
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>09/29/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="700781" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="700781" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/700781/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 76: premature death
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>09/19/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="694864" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="694864" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/694864/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 75: hidden inventory xi
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>09/12/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="691352" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="691352" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/691352/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 74: hidden inventory x
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>09/07/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+ <input class="chapter-index" chapter-id="689877" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="689877" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/689877/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 73: hidden inventory, part 9
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>09/02/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="688334" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="688334" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/688334/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 72: hidden inventory, part 8
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>08/26/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="686700" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="686700" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/686700/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 71: hidden inventory, part 7
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>08/19/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="682898" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="682898" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/682898/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 70: hidden inventory, part 6
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>08/05/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="680674" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="680674" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/680674/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 69: hidden inventory, part 5
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>07/28/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="678712" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="678712" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/678712/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+ <label class="chapter-title">
+Chapter 68: hidden inventory, part 4
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>07/22/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="676211" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="676211" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/676211/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 67: hidden inventory, part 3
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>07/13/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="674750" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="674750" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/674750/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 66: hidden inventory, part 2
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>07/08/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+ <input class="chapter-index" chapter-id="673028" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="673028" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/673028/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 65: hidden inventory
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>07/01/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="671776" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="671776" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/671776/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 64: it's like that
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>06/24/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="669807" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="669807" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/669807/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 63: accomplices
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>06/17/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="667636" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="667636" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/667636/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 62: the origin of obedience, par...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>06/11/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="571842" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="571842" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/571842/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 61
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>06/03/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="570274" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="570274" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/570274/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+ <label class="chapter-title">
+Chapter 60: origin of obedience vi
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>05/26/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="566673" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="566673" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/566673/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 59: origin of obedience v
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>05/19/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="564659" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="564659" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/564659/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 58: the origin of obedience, par...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>05/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+ <input class="chapter-index" chapter-id="539558" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="539558" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/539558/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 57: the origin of obedience, par...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/30/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="403766" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="403766" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/403766/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 56: the origin of obedience. par...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/22/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="403735" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="403735" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/403735/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 55.1 : the origin of obedience....
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/22/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="403734" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="403734" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/403734/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 55: the origin of obedience
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/22/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343691" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343691" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343691/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 54: jujutsu koshien
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343699" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343699" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343699/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 53: completion
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343690" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343690" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343690/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 52: non-standard
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+ <input class="chapter-index" chapter-id="343683" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343683" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343683/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 51: flower
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343696" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343696" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343696/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 50: premonition
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343694" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343694" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343694/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 49: constrained
+</label>
+<a class="anchor" id="anchor_51" style="display: block; position: relative; top: -500px; visibility: hidden;"></a></a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343688" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343688" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343688/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 48: black flash
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343697" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343697" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343697/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 47: cursed tool
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343698" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343698" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343698/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 46: time
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343700" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343700" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343700/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 45: wise man
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343693" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343693" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343693/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 44: kyoto sister school goodwill...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343685" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343685" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343685/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 43: kyoto sister school goodwill...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343686" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343686" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343686/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 42: kyoto sister school goodwill...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343687" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343687" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343687/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 41: kyoto sister school goodwill...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343702" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343702" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343702/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 40: kyoto sister school goodwill...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343684" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343684" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343684/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 39: exchange festival with the k...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343695" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343695" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343695/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 38: exchange festival with the k...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343692" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343692" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343692/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 37: exchange festival with the k...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343701" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343701" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343701/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 36: exchange festival with the k...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+ <input class="chapter-index" chapter-id="343689" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343689" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343689/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 35: exchange festival with the k...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343703" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343703" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343703/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 34: exchange festival with the k...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343711" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343711" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343711/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 33: exchange festival with the k...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343716" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343716" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343716/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 32: reflection
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343710" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343710" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343710/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 31: see you tomorrow
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343708" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343708" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343708/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 30: selfish
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343718" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343718" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343718/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 29: growth
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343707" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343707" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343707/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 28: i'll kill you
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343719" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343719" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343719/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter : jujutsu kaisen jump festa 2019...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343717" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343717" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343717/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 27: if
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343721" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343721" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343721/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 26: to you of someday
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+ </div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343709" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343709" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343709/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 25: narrow-minded foolishness
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343713" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343713" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343713/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 24: small fry and reverse retrib...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343715" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343715" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343715/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+ Chapter 23: small fry and reverse retrib...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343720" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343720" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343720/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 22
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343704" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343704" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343704/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 21: small fry and reverse retrib...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343714" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343714" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343714/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 20: small fry and reverse retrib...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343705" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343705" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343705/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 19
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343712" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343712" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343712/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 18: low class
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+ </li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343722" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343722" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343722/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 17: boredom
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343706" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343706" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343706/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 16: compassion
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343723" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343723" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343723/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 15: expansion
+ </label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343725" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343725" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343725/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 14: a sudden attack
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343724" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343724" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343724/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 13: movie appreciation
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343727" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343727" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343727/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 12: pushing forward
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343726" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343726" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343726/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 11: a dream
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343730" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343730" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343730/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 10: after the rain
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343729" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343729" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343729/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 9: the cursed womb's earthly exi...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343728" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343728" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343728/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 8: the cursed womb's earthly exi...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+ </li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343736" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343736" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343736/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 7: the crused womb's earthly exi...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343732" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343732" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343732/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 6: the crused womb's earthly exi...
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343741" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343741" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343741/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 5: beginning
+ </label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343737" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343737" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343737/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 4: steel beam girl
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343738" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343738" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343738/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 3: for myself
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343742" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343742" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343742/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 2: secret execution
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="343735" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="343735" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/343735/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 1: ryomen sukuna
+</label>
+</a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/14/2019</small></label>
+</div>
+</li>
+<li class="list-group-item chapter_list ">
+<input class="chapter-index" chapter-id="876701" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');" style="width:50px; position: absolute; display:none;">
+<a class="chapter-url" chapter-id="876701" target="_blank" rel="noopener noreferrer nofollow" href="https://r.mangaowls.com/reader/4107/876701/0?tr=QF6y8rZYkN%2BUI88XaEdCkw%3D%3D&amp;s=aHR0cHM6Ly9yLm1hbmdhb3dscy5jb20%3D" style="font-weight: bold;">
+<label class="chapter-title">
+Chapter 0 : the origin of obedience. par...
+</label>
+<a class="anchor" id="anchor_1" style="display: block; position: relative; top: -500px; visibility: hidden;"></a></a>
+<div style="display:flex">
+<label style="width: 100%; display:block; text-align: right; color:black; font-weight:normal;"><small>04/09/2020</small></label>
+</div>
+</li>
+
+</ul>
+</div>
