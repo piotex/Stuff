@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
+using System.Threading;
 
 namespace Klawiatura
 {
@@ -20,6 +21,12 @@ namespace Klawiatura
             ghk = new KeyHandler(Keys.NumPad0, this);
             ghk.Register();
             InitializeComponent();
+
+            while (true)
+            {
+                Thread.Sleep(1000);
+                SimulateSpaceKeyPress();
+            }
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -28,7 +35,7 @@ namespace Klawiatura
         }
         private void SimulateSpaceKeyPress()
         {
-            SendKeys.Send(" ");
+            SendKeys.Send(".");
             // Do stuff...
         }
 

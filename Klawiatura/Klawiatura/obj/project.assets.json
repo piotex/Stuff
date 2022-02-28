@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pkubo\\OneDrive\\Dokumenty\\GitHub\\Klawiatura\\Klawiatura\\Klawiatura\\Klawiatura.csproj",
+      "projectUniqueName": "C:\\Users\\pkubo\\OneDrive\\Dokumenty\\GitHub\\Stuff\\Klawiatura\\Klawiatura\\Klawiatura.csproj",
       "projectName": "Klawiatura",
-      "projectPath": "C:\\Users\\pkubo\\OneDrive\\Dokumenty\\GitHub\\Klawiatura\\Klawiatura\\Klawiatura\\Klawiatura.csproj",
+      "projectPath": "C:\\Users\\pkubo\\OneDrive\\Dokumenty\\GitHub\\Stuff\\Klawiatura\\Klawiatura\\Klawiatura.csproj",
       "packagesPath": "C:\\Users\\pkubo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pkubo\\OneDrive\\Dokumenty\\GitHub\\Klawiatura\\Klawiatura\\Klawiatura\\obj\\",
+      "outputPath": "C:\\Users\\pkubo\\OneDrive\\Dokumenty\\GitHub\\Stuff\\Klawiatura\\Klawiatura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pkubo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
